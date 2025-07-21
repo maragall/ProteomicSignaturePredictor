@@ -1,0 +1,17 @@
+numpy
+scikit-image
+matplotlib
+scipy
+tqdm
+joblib
+opencv-python
+pandas
+umap-learn
+Pillow
+imageio
+scikit-learn
+seaborn
+openslide-python
+tifffile
+shapely
+tensorflow

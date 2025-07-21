@@ -1,0 +1,10 @@
+#!/bin/sh 
+#SBATCH --account=pinaki.sarder 
+#SBATCH --job-name=ProteomicSignaturePred
+#SBATCH --output=ProteomicSignaturePred%j.log
+#SBATCH --ntasks=1
+#SBATCH --mem=96gb
+#SBATCH --time=72:00:00
+#SBATCH --cpus-per-task=18
+#SBATCH --partition=hpg-gpu
+#SBATCH --gres=gpu:a100:1
