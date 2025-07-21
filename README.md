@@ -11,7 +11,7 @@ Feature extraction from the CODEX channels for each segmented nucleus.
 Dimensionality reduction and clustering of the feature vectors.
 Analysis of cluster characteristics and intra-cluster variability.
 
-![Alt Text](HighLevelView.svg)
+![Alt Text](/images/results/HighLevelView.svg)
 
 ![Alt Text](Dir_gen.png)
 
