@@ -13,7 +13,7 @@ Analysis of cluster characteristics and intra-cluster variability.
 
 ![Alt Text](/images/diagrams/HighLevelView.svg)
 
-![Alt Text](Dir_gen.png)
+![Alt Text](/images/results/Dir_gen.png)
 
 
 # Direction 1:
@@ -23,9 +23,9 @@ Analysis of cluster characteristics and intra-cluster variability.
 
 • We want to **find **signal between HE and CODEX. 
 
-![Alt Text](Dir1.png)
+![Alt Text](/images/results/Dir1.png)
 
-![Alt Text](Dir1_tubules.png)
+![Alt Text](/images/results/Dir1_tubules.png)
 
 picture
 
@@ -36,13 +36,13 @@ picture
 
 • We want to **see** how the H&E modality affects CODEXUMAP clusters.
 
-![Alt Text](HEWeighted.png)
+![Alt Text](/images/results/HEWeighted.png)
 
-![Alt Text](Dir2.png)
+![Alt Text]/images/results/(Dir2.png)
 
 # Structural Cytometry Interface
 
-![Alt Text](StructureCytometry.png)
+![Alt Text](/images/results/StructureCytometry.png)
 
 # Dependencies
 Linux
